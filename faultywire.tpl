@@ -14,7 +14,8 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css">
-
+    <link rel="stylesheet" href="static/bootstrap/examples/carousel/carousel.css">
+    
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="../../assets/js/html5shiv.js"></script>
@@ -66,7 +67,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="http://placekitten.com/1200/600">
+          <img src="http://placekitten.com/1200/500">
           <div class="container">
             <div class="carousel-caption">
               <h1>Find us at PAX Prime 2013</h1>
@@ -109,6 +110,7 @@
     <!-- Javascript -->
     <script src="//code.jquery.com/jquery.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script src="static/bootstrap/assets/js/holder.js"></script>
 
   </body>
 </html>

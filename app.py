@@ -14,4 +14,4 @@ def send_static(filename):
 def error404(error):
     return "404: The droids you are looking for are not here."
 
-run(server="cherrypy", host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
+run(server="cherrypy", debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))

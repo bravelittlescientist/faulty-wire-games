@@ -6,8 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     
-    <!-- TODO Shortcut Icon
-    <link rel="shortcut icon" href="../../assets/ico/favicon.png"> -->
+    <link rel="shortcut icon" href="static/img/graphics/favicon.ico">
   
     <title>Faulty Wire Games</title>
     

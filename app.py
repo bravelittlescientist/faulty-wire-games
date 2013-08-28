@@ -1,5 +1,6 @@
 import os
 import cherrypy
+import pymongo
 from bottle import error, route, run, template, static_file
 
 @route("/")

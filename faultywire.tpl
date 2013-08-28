@@ -14,7 +14,7 @@
     <!-- Bootstrap -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="static/bootstrap/examples/carousel/carousel.css">
+    <link rel="stylesheet" href="static/css/carousel.css">
     
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -41,14 +41,14 @@
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="#about">Project SunFlower</a></li>
-                <li><a href="#contact">About Us</a></li>
+                <li><a href="#sunflower">Project SunFlower</a></li>
+                <li><a href="#about">About Us</a></li>
               </ul>
               <!-- TODO Fill in social media links -->
               <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">Social Media 1</a></li>
-                <li><a href="#">Social Media 2</a></li>
-                <li><a href="#">Social Media 3</a></li>
+                <li><a href="http://twitter.com/FaultyWire"><img src="static/img/webicons/webicon-twitter-s.png"></a></li>
+                <li><a href="http://www.facebook.com/FaultyWireGames"><img src="static/img/webicons/webicon-facebook-s.png"></a></li>
+                <li><a href="https://plus.google.com/u/0/116510731979567810053/posts"><img src="static/img/webicons/webicon-googleplus-s.png"></a></li>
               </ul>
             </div>
           </div>
@@ -67,12 +67,16 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="http://placekitten.com/1200/500">
+          <div style="overflow:hidden; width: auto; position: absolute; bottom: 0; left: 0;">
+            <img src="static/img/graphics/spiderbg.png">
+          </div>
+          <div style="overflow:hidden; width: auto; position: absolute; bottom: 0; right: 0;">
+            <img src="static/img/graphics/spiderbg.png">
+          </div>
           <div class="container">
             <div class="carousel-caption">
-              <h1>Find us at PAX Prime 2013</h1>
-              <p>Placeholder: Map</p>
-              <!-- <p><a class="btn btn-large btn-primary" href="#">Sign up today</a></p> -->
+              <h1>Faulty Wire Games at PAX Prime 2013</h1>
+              <p>Find us in the Tabletop Freeplay Area from 6:30 PM to Close.</p>
             </div>
           </div>
         </div>
@@ -80,9 +84,9 @@
           <img src="http://placekitten.com/1200/500">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Project SunFlower</h1>
-              <p>TBD</p>
-              <p><a class="btn btn-large btn-primary" href="#">Explore</a></p>
+              <!--<img src="static/img/graphics/PSFsymbol_small.png" width=100>
+              Discover Project SunFlower
+              <p><a class="btn btn-large btn-primary" href="#">Explore</a></p>-->
             </div>
           </div>
         </div>
@@ -110,7 +114,7 @@
     <!-- Javascript -->
     <script src="//code.jquery.com/jquery.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-    <script src="static/bootstrap/assets/js/holder.js"></script>
+    <script src="static/js/holder.js"></script>
 
   </body>
 </html>

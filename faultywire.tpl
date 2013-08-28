@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     
-    <link rel="shortcut icon" href="static/img/graphics/favicon.ico">
+    <link rel="shortcut icon" href="static/img/favicon.ico">
   
     <title>Faulty Wire Games</title>
     
@@ -75,7 +75,7 @@
           <div class="container">
             <div class="carousel-caption">
               <h1>Faulty Wire Games at PAX Prime 2013</h1>
-              <p>Find us in the Tabletop Freeplay Area from 6:30 PM to Close.</p>
+              <p>Find us in the Tabletop Freeplay Area from 6:30 PM to Close</p>
             </div>
           </div>
         </div>

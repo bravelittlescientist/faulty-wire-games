@@ -66,7 +66,7 @@
       </ol>
       <div class="carousel-inner">
         <div class="item active">
-          <img src="http://placekitten.com/1200/500">
+          <img src="http://placekitten.com/1200/600">
           <div class="container">
             <div class="carousel-caption">
               <h1>Find us at PAX Prime 2013</h1>

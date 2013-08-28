@@ -99,6 +99,10 @@
     
       <!-- Email Sign-Up -->
       <div class="row">
+        <div class="col-md-3 col-md-offset-3"><p>Sign Up Details Text</p></div>
+        <div class="col-md-3">Test 2</div>
+      </div>
+      <div class="row">
         <p>Sign Up Details Text</p>
         <input type="text" id="email-sign-up">
         <p><a class="btn btn-default" href="#">Sign Up</a></p>
